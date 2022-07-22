@@ -1,0 +1,42 @@
+
+body{
+    background-color: gainsboro;
+}
+header{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    
+    }
+.Post1{
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.contenedor{
+    width: 400px;
+    margin: auto;
+    
+}    
+.Post1 img{
+    width: 400px;
+}
+
+div h2{
+    padding: 5px;
+    display: inline;
+}
+div span{
+    position: absolute;
+    color: gray;
+    left: 330px;
+    padding-top: 5px;
+        
+}
+div p{
+    margin: 5px;
+}
